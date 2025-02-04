@@ -6,6 +6,11 @@ A Spotify interface clone built with React, featuring a search functionality tha
 ![image](https://github.com/user-attachments/assets/12d99bc5-78de-4211-beb0-e043007f473d)
 
 
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/1e895814-c54a-430a-9c5e-930d42d954cd)
 
 
